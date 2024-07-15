@@ -4,7 +4,14 @@ DevOps CI/CD - Александр Михайлов SYS34
 2.Установите на машину с jenkins golang.  
 3.Используя свой аккаунт на GitHub, сделайте себе форк репозитория. В этом же репозитории находится дополнительный материал для выполнения ДЗ.  
 4.Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и  docker build ..  
-  
+
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.1.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.2.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.3.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.4.png)      
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/1.5.png)
+
 **Задание2**  
 1.Создайте новый проект pipeline.  
 2.Перепишите сборку из задания 1 на declarative в виде кода.  
