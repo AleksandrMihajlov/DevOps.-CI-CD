@@ -15,9 +15,18 @@ DevOps CI/CD - Александр Михайлов SYS34
 **Задание2**  
 1.Создайте новый проект pipeline.  
 2.Перепишите сборку из задания 1 на declarative в виде кода.  
-  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/2.png)
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/2.1.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/2.2.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/2.3.png)
+
 **Задание3**  
 1.Установите на машину Nexus.  
 2.Создайте raw-hosted репозиторий.  
 3.Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.  
-4.Загрузите файл в репозиторий с помощью jenkins.
+4.Загрузите файл в репозиторий с помощью jenkins.  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/3.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/3.1.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/3.2.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/3.3.png)  
+![alt text](https://github.com/AleksandrMihajlov/DevOps.-CI-CD/blob/main/3.4.png)
